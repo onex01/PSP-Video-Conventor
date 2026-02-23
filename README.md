@@ -124,7 +124,7 @@
 
 #### Вариант B: Готовая сборка (EXE)
 
-Скачайте готовый исполняемый файл из раздела [Releases](https://github.com/yourusername/psp-video-converter/releases) и запустите без установки Python.
+Скачайте готовый исполняемый файл из раздела [Releases](https://github.com/onex01/PSP-Video-Conventor/releases/tag/build-1.0) и запустите без установки Python.
 
 ---
 
@@ -322,5 +322,6 @@
 
 <div align="center">
   <p>Сделано с ❤️ для фанатов PSP</p>
-  <p>© 2026 PSP Video Converter</p>
+  <p>© 2025-2026 OneX01</p>
 </div>
+
